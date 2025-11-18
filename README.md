@@ -6,7 +6,15 @@
 
 ## 🎵 Penjelasan Aplikasi
 
-**Melody Stream** adalah aplikasi music player premium yang menawarkan pengalaman mendengarkan musik yang imersif dengan antarmuka yang elegan dan fitur-fitur lengkap. Aplikasi ini dirancang dengan arsitektur modern menggunakan Flutter dan Riverpod untuk state management.
+Melody Stream dikembangkan sebagai solusi music player modern yang menggabungkan fungsionalitas lengkap dengan pengalaman visual yang memukau. Aplikasi ini dibuat untuk memenuhi kebutuhan pengguna yang menginginkan aplikasi pemutar musik yang tidak hanya berfungsi dengan baik, tetapi juga memberikan kepuasan visual dan interaksi yang menyenangkan.
+
+**💡Alasan Pengembangan:**
+
+Kebutuhan Aplikasi Music Player Lokal - Banyak pengguna yang masih menyimpan koleksi musik lokal dan membutuhkan pemutar yang optimal
+
+Pengalaman Visual yang Minim - Aplikasi music player existing seringkali fokus pada fungsi tapi mengabaikan aspek visual
+
+Edukasi Flutter Lanjutan - Sebagai media pembelajaran implementasi advanced Flutter concepts
 
 ## 🎥 Video Demo
 **Link Google Drive:** https://drive.google.com/drive/folders/15sywC1GQnNfoZBB-PNfxEzTpgDvV2r75?usp=sharing
@@ -47,18 +55,23 @@
 ## 📱 Screenshot Tampilan
 
 ### Splash Screen
+
 <img width="828" height="1792" alt="Splash Screen" src="https://github.com/user-attachments/assets/47637c6b-6c7a-4d9e-8443-3871459aff0f" />
 
 ### Music Player Screen  
+
 <img width="828" height="1792" alt="Music Player Screen" src="https://github.com/user-attachments/assets/f5caee10-dec8-4dc9-bbaf-186658fc1f32" />
 
 ### Playlist
+
 <img width="828" height="1792" alt="Playlist" src="https://github.com/user-attachments/assets/d05f84cc-437c-4a37-80dc-7e4e04949ab7" />
 
 ### Favorites Screen
+
 <img width="828" height="1792" alt="Favorite" src="https://github.com/user-attachments/assets/4b023d1f-771f-4e69-b506-a8d32e0253a2" />
 
 ### Theme Switcher
+
 <img width="828" height="1792" alt="Tema" src="https://github.com/user-attachments/assets/b12ca712-c267-44e3-80d9-7e80957280db" />
 
 ## 💻 Implementasi Requirements UTS
